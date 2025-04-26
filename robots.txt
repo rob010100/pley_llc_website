@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /business.html
+Disallow: /businesscreation.html
+Disallow: /esbusiness.html
+Disallow: /esbusinesscreation.html
+Disallow: /hardware.html
+Disallow: /eshardware.html
+Disallow: /jobseeker.html
+Disallow: /esjobseeker.html
+Disallow: /nonprofit.html
+Disallow: /nonprofitcreation.html
+Disallow: /esnonprofit.html
+Disallow: /esnonprofitcreation.html
+Disallow: /template.html
+Disallow: /estemplate.html
+Disallow: /testimonial.html
+Disallow: /estestimonial.html
+Disallow: /socialmedia.html
+Disallow: /essocialmedia.html
+
+Sitemap: https://www.pleykc.com/sitemap.xml

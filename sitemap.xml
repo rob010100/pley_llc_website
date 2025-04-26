@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Top Priority Pages -->
+  <url>
+    <loc>https://www.pleykc.com/index.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/about.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/contact.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/overview.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Mid-Level Priority Pages -->
+  <url>
+    <loc>https://www.pleykc.com/webdesign.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/seo.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/training.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/security.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/pledge.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- Lower Priority / Utility Pages -->
+  <url>
+    <loc>https://www.pleykc.com/dataprivacy.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/termsofuse.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.30</priority>
+  </url>
+  <url>
+    <loc>https://www.pleykc.com/cookies.html</loc>
+    <lastmod>2025-04-23</lastmod>
+    <priority>0.30</priority>
+  </url>
+
+</urlset>
